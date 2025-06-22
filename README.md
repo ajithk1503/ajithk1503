@@ -4,7 +4,7 @@ I am currently learning and building projects on Generative AI and Deep Learning
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanumuri-ajith-varma-00413224b) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajithk2004@gmail.com). **ajithk2004@gmail.com**
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajithk2004@gmail.com)**ajithk2004@gmail.com**
 
 
 # 💻 Tech Stack:
