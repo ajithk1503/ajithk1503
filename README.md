@@ -1,6 +1,9 @@
 # 💫 About Me:
-Hi, I'm ##Kanumuri Ajith Varma.
-I'm currently learning and building projects in Generative AI and Deep Learning. My focus is on applying cutting-edge machine learning techniques to solve real-world problems, with hands-on experience in Retrieval-Augmented Generation (RAG), LLMs, and neural networks. I'm passionate about building intelligent systems that learn from data and generate meaningful insights or content.
+## Hi, I'm **Kanumuri Ajith Varma**
+
+I'm currently learning and building projects in **Generative AI** and **Deep Learning**.  
+My focus is on applying cutting-edge machine learning techniques to solve real-world problems, with hands-on experience in **Retrieval-Augmented Generation (RAG)**, **LLMs**, and **neural networks**.  
+I'm passionate about building intelligent systems that learn from data and generate meaningful insights or content.
 
 
 ## 🌐 Socials:
